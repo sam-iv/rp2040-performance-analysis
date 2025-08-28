@@ -1,0 +1,4 @@
+,method,size,run1_us,run2_us,run3_us,run4_us,run5_us,avg_us
+0,quick,10,21,45,20,20,21,25.4
+1,quick,50,183,160,161,183,159,169.2
+2,quick,100,610,608,616,618,615,613.4

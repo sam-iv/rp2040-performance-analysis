@@ -1,0 +1,2 @@
+task,method,reads,avg_us_mean,avg_us_std
+adc,single_read,1000,6.0,0.0

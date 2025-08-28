@@ -1,0 +1,4 @@
+task,method,size,avg_us_mean,avg_us_std
+bubblesort,bubble,10,32.6,0.547722557505166
+bubblesort,bubble,50,160.0,3.6742346141747695
+bubblesort,bubble,100,614.6,2.302172886644264

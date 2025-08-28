@@ -1,0 +1,6 @@
+run,method,setup_time_us,avg_setup_time_us
+run1,setup,8,8.4
+run2,setup,9,8.4
+run3,setup,8,8.4
+run4,setup,8,8.4
+run5,setup,9,8.4

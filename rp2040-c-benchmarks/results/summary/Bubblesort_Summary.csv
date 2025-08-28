@@ -1,0 +1,4 @@
+,method,size,run1_us,run2_us,run3_us,run4_us,run5_us,avg_us
+0,bubble,10,11,11,38,11,11,16.4
+1,bubble,50,153,173,174,173,168,168.2
+2,bubble,100,619,597,611,609,601,607.4

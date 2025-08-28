@@ -1,0 +1,2 @@
+task,method,iterations,avg_us_mean,avg_us_std
+i2c,write,100,121.152,0.004472135954995313

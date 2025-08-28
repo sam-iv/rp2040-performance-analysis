@@ -1,0 +1,2 @@
+task,method,toggles,avg_us_mean,avg_us_std
+gpio,toggle,1000,0.0634,0.0026076809620810626

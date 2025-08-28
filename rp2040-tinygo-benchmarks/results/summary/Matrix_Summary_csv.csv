@@ -1,0 +1,3 @@
+task,method,size,avg_us_mean,avg_us_std
+matrix,multiply,10,285.4,4.219004621945802
+matrix,multiply,20,1914.2,0.4472135954999452

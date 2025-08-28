@@ -1,0 +1,5 @@
+task,method,iterations,avg_us_mean,avg_us_std
+loop,for_loop,1000,63.6,3.0495901363953823
+loop,for_loop,10000,414.2,3.9623225512317877
+loop,for_loop,100000,4011.6,0.5477225575051765
+loop,for_loop,1000000,40011.8,0.447213595500263

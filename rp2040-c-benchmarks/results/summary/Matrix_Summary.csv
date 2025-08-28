@@ -1,0 +1,3 @@
+,method,size,run1_us,run2_us,run3_us,run4_us,run5_us,avg_us
+0,multiply,10,137,120,138,131,118,128.8
+1,multiply,20,732,728,729,729,727,729.0

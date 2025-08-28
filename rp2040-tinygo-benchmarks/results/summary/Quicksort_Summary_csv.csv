@@ -1,0 +1,4 @@
+task,method,size,avg_us_mean,avg_us_std
+quicksort,quick,10,41.2,0.44721359549995765
+quicksort,quick,50,184.2,3.271085446759227
+quicksort,quick,100,686.0,4.636809247747862

@@ -1,0 +1,2 @@
+task,method,iterations,avg_us_mean,avg_us_std
+uart,send,100,1847.502,0.025884358211104092

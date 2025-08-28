@@ -1,0 +1,6 @@
+run,method,iterations,total_time_us,avg_time_us,mean_avg_us
+run1,write,100,12123,121.23,121.226
+run2,write,100,12118,121.18,121.226
+run3,write,100,12119,121.19,121.226
+run4,write,100,12120,121.2,121.226
+run5,write,100,12133,121.33,121.226
