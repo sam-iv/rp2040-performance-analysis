@@ -6,6 +6,8 @@ This repository contains all code and resources from my final year dissertation,
 
 **Dissertation:** [Click me](Dissertation.pdf)
 
+![Hardware Benchmarks](hardware_benchmarks.png)
+
 ## Key Findings
 
 The study found a clear trade-off between the two languages:
